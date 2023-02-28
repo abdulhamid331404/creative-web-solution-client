@@ -6,7 +6,9 @@
     width: 100%;
   } */
 
-.nav-item {
+/* .nav-item {
+  overflow: none;
+  background-color: #333;
     position: fixed;
-    overflow: hidden;
-}
+   
+} */
